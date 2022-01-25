@@ -1,8 +1,8 @@
 ## Linux File Transfer
 
--- Wget
+Wget
 
-wget 192.168.1.102:9999/file.txt
+- wget 192.168.1.102:9999/file.txt
 
 - Curl
 
